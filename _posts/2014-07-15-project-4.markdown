@@ -1,0 +1,12 @@
+---
+title: Make Donations
+subtitle: 
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: donate.jpg
+thumbnail: donate_t.png
+alt: image-alt
+description: You can help AIM India Foundation to provide support to our projects in India by making a regular payment.
+
+---

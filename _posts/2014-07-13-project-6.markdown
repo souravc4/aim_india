@@ -1,0 +1,12 @@
+---
+title: Join Volunteer
+subtitle: 
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: volunteer.png
+thumbnail: volunteer_t.png
+alt: image-alt
+description: Volunteering does not require a special degree or prior experience. It is simply a willingness to help.
+
+---

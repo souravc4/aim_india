@@ -1,0 +1,25 @@
+#url: https://
+url: https://souravc4.github.io/aim_india
+#baseurl: //
+
+# Site settings
+title: Aim India Foundation
+email: your-email@domain.com
+description: ""
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://www.facebook.com/aimindiango/
+  - title: twitter
+    url: https://twitter.com/aimindiango/
+
+# Postal address (add as many lines as necessary)
+address:
+  - line:
+  - line:
+
+# Build settings
+markdown: kramdown
+permalink: pretty

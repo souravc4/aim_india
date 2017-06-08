@@ -1,0 +1,12 @@
+---
+title: Help Projects
+subtitle: 
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: help.jpg
+thumbnail: help_t.png
+alt: image-alt
+description: You can sponsor one or more projects of AIM India Foundation making a regular / onetime payment.
+
+---
